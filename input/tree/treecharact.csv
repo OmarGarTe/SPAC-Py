@@ -1,0 +1,13 @@
+aroot,0.000548,m
+sapwoodarea,0.0017,m2 sapwood m-2 soil
+shootheight,1,m
+ratio_rzrx,1,
+rowdist,3,m
+plantspace,1.5,m
+rowdirec,270,degrees from south (clockwise)
+hbase,0.05,m
+htop,1.7,m
+canopywidth,1.5,m
+leaf_width,0.1,m
+x_LAD,1,
+LAI_eff,1,Boolean
